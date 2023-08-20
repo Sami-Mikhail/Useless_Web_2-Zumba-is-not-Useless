@@ -1,0 +1,31 @@
+h1 {
+    color :red;
+    text-align: center;
+}
+
+h2 {
+    color :blue;
+    text-align: center;
+}
+
+#Yes {
+    border-radius: 50px;
+}
+
+#No {
+    float: left;
+}
+
+.image-container {
+    position: relative;
+    width: 300px; /* Adjust as needed */
+    height: 300px; /* Adjust as needed */
+    overflow: hidden;
+}
+
+.move-image:hover {
+    transform: translate(500px, 0px); 
+
+    /*    transform: translate(500px, 0px); */
+
+}
